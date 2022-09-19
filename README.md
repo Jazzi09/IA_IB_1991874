@@ -1,2 +1,2 @@
 # IA_IB_1991874
-Este repositorio contiene actividades y el PIA de la clase de Inteligencia Artificial.
+This repository contains the activities and the PIA of the Artificial Intelligence class for the August-December 2022 semester.
